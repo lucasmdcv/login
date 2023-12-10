@@ -1,0 +1,14 @@
+.container{
+    background-image: url(https://th.bing.com/th/id/R.1bc60bd3666fc3431cd8b1d1ac6c3d0a?rik=xE3UinvetLlUlg&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  
+
+  text-decoration: aliceblue;
+  color: aliceblue;
+    transform: translate(22);
+}
+label{color: aliceblue;
+}
+input{color: aliceblue;}
